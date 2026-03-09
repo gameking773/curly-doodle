@@ -35,8 +35,7 @@ export default function App() {
                 <h1>KHALIL <span>EL KADIRI</span></h1>
                 <h2>Étudiant en BUT Informatique à l'IUT de Reims</h2>
                 <p>
-                    Passionné par la <strong>gestion de données et le développement back-end</strong>.
-                    Positionné sur l'administration et l'exploitation des données, je recherche un stage dès le 7 avril 2026.
+                    Passionné de <strong>gestion de données</strong> (l'administration et l'exploitation des données) et de <strong>développement back-end</strong>.
                 </p>
                 <div className="hero-btns">
                     <a href="#projets" className="btn btn-primary">Découvrir mes projets</a>
